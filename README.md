@@ -1,6 +1,6 @@
 # LED_Control_library
-
- *LED control using register: https://github.com/hniman135/AT32F403A_LEDControl
+ LED control using register: https://github.com/hniman135/AT32F403A_LEDControl
+ 
 Notice:
 * AT32 IDE is recommended
 * AT-START-F403A is currently in use
